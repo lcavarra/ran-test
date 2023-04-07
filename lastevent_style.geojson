@@ -1,0 +1,16 @@
+{
+    "style_properties": [{
+       "propertyKey": "evid",
+       "properties": [
+          {
+             "property": "icon",
+             "values": [{
+                   "key": "*",
+                   "value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/dati/epicentro.png)",
+                   "size": [100, 100]
+                }
+             ]
+          }
+       ]
+    }]
+}
