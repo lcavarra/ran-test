@@ -1,0 +1,44 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Rete RAN",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Comuni terremoto"
+    },
+    {
+      "key": 1,
+      "label": "Epicentro"
+    },
+    {
+      "key": 2,
+      "label": "PGA MAZ"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "http://150.145.141.13/ran/dati/comuni_ran.geojson"
+      },
+      {
+        "geojson": "http://150.145.141.13/ran/dati/pgamax.geojson"
+      },
+      {
+        "geojson": "http://150.145.141.13/ran/dati/last_event.geojson"
+      }
+    ],
+    "topo_json": [
+      "http://150.145.141.13/ran/dati/comuni_ran.geojson",
+      "http://150.145.141.13/ran/dati/pgamax.geojson",
+      "http://150.145.141.13/ran/dati/last_event.geojson"
+
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "http://150.145.141.13/ran/dati/comuni_style.geojson",
+    "http://150.145.141.13/ran/dati/pgamax_style.geojson",
+    "http://150.145.141.13/ran/dati/lastevent_style.geojson"
+  ]
+}
