@@ -9,11 +9,11 @@
     },
     {
       "key": 1,
-      "label": "Epicentro"
+      "label": "PGA Max"
     },
     {
       "key": 2,
-      "label": "PGA MAZ"
+      "label": "Epicentro"
     }
   ],
   "today": {
