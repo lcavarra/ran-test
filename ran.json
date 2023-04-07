@@ -19,26 +19,26 @@
   "today": {
     "attachment": [
       {
-        "geojson": "http://150.145.141.13/ran/dati/comuni_ran.geojson"
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_ran.geojson"
       },
       {
-        "geojson": "http://150.145.141.13/ran/dati/pgamax.geojson"
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax.geojson"
       },
       {
-        "geojson": "http://150.145.141.13/ran/dati/last_event.geojson"
+        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/last_event.geojson"
       }
     ],
     "topo_json": [
-      "http://150.145.141.13/ran/dati/comuni_ran.geojson",
-      "http://150.145.141.13/ran/dati/pgamax.geojson",
-      "http://150.145.141.13/ran/dati/last_event.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_ran.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/last_event.geojson"
 
     ],
     "html_description": ""
   },
   "style": [
-    "http://150.145.141.13/ran/dati/comuni_style.geojson",
-    "http://150.145.141.13/ran/dati/pgamax_style.geojson",
-    "http://150.145.141.13/ran/dati/lastevent_style.geojson"
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax_style.geojson",
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/lastevent_style.geojson"
   ]
 }
