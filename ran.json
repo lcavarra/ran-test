@@ -37,8 +37,8 @@
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_style.geojson",
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax_style.geojson",
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/lastevent_style.geojson"
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/lastevent_style.json"
   ]
 }
