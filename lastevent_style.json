@@ -8,7 +8,7 @@
                    "key": "*",
                    "value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/epicentro.png)",
                    "options": {
-                     "iconSize": [36, 36]
+                     "iconSize": [100, 100]
                    }
                 }
              ]
