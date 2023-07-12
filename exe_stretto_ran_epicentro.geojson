@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "exe_stretto_ran_epicentro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Ml": 6, "Data_ora_(UTC)": "2022-11-04T09:00:00", "Lat": 38.137, "Lon": 15.711, "Prof_(km)": 20.0, "Luogo": null, "Fonte": "INGV" }, "geometry": { "type": "Point", "coordinates": [ 15.710074868263474, 38.136306151197608 ] } }
+]
+}
